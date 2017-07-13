@@ -1,0 +1,2 @@
+# Lecture-C
+C Study
